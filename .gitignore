@@ -1,0 +1,10 @@
+.idea/
+.gradle
+/build
+*.iml
+local.properties
+*.apk
+/freeline/
+/freeline_core/
+/freeline.py
+/freeline_project_description.json
